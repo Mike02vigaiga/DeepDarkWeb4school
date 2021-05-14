@@ -1,4 +1,6 @@
 # DeepDarkWeb4school
-i created this repository in order to host a website and Readme file.
+ho creato questa repository per hostare una pagina web e un fle Readme
 
-FOR EDUCATIONAL PURPOSE ONLY-->(school project)
+FOR EDUCATIONAL PURPOSE ONLY
+
+
